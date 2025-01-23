@@ -14,9 +14,9 @@
 
 ## Скриншоты
 
-<img src="https://github.com/user-attachments/assets/5d0f83e7-181c-4f5c-8e10-033ddfd93aae" style=" width:300px ; height:500px " />
-<img src="https://github.com/user-attachments/assets/6dbdebda-97fc-4d1a-8512-ed8a5c300f57" style=" width:300px ; height:500px " />
-<img src="https://github.com/user-attachments/assets/dad0f069-a5cc-4023-ba1d-2a073f4ac542" style=" width:300px ; height:500px " />
+<img src="https://github.com/user-attachments/assets/5d0f83e7-181c-4f5c-8e10-033ddfd93aae" style=" width:200px ; height:400px " />
+<img src="https://github.com/user-attachments/assets/6dbdebda-97fc-4d1a-8512-ed8a5c300f57" style=" width:200px ; height:400px " />
+<img src="https://github.com/user-attachments/assets/dad0f069-a5cc-4023-ba1d-2a073f4ac542" style=" width:200px ; height:400px " />
 
 ## Детальное описание кода
 
