@@ -65,11 +65,12 @@
 
     <TextView
         android:id="@+id/result_logo"
-        android:layout_width="match_parent"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20sp"
         android:layout_marginTop="50dp"
         android:fontFamily="@font/montserrat_bold"
-        android:textAlignment="center"
+        android:textAlignment="textStart"
         android:textColor="@color/brownhint"
         android:textSize="25sp"
         android:textStyle="bold"
@@ -77,5 +78,48 @@
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/main_btn" />
+
+    <TextView
+        android:id="@+id/feels_like_logo"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20sp"
+        android:fontFamily="@font/montserrat_bold"
+        android:textAlignment="textStart"
+        android:textColor="@color/brownhint"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/result_logo" />
+
+    <TextView
+        android:id="@+id/description_logo"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20sp"
+        android:fontFamily="@font/montserrat_bold"
+        android:textAlignment="textStart"
+        android:textColor="@color/brownhint"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/feels_like_logo" />
+
+    <TextView
+        android:id="@+id/wind_speed"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20sp"
+        android:fontFamily="@font/montserrat_bold"
+        android:textAlignment="textStart"
+        android:textColor="@color/brownhint"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/description_logo" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
