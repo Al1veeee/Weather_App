@@ -5,4 +5,6 @@
     <color name="brown">#291604</color>
     <color name="elwhite">#ffe6cf</color>
     <color name="brownhint">#8c8177</color>
+    <color name="black1">#0a0a0a</color>
+    <color name="gray">#303030</color>
 </resources>
