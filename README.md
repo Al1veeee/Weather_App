@@ -22,9 +22,9 @@
 
 ## Скриншоты
 
-<img src="https://github.com/user-attachments/assets/1d007692-be01-4880-9ecd-d3b6b78e803c" style=" width:200px ; height:400px " />
-<img src="https://github.com/user-attachments/assets/34eb95c8-ce50-4887-aead-ca2e92218e42" style=" width:200px ; height:400px " />
-<img src="https://github.com/user-attachments/assets/3c565798-976e-445a-9d4e-07081d3b423e" style=" width:200px ; height:400px " />
+<img src="https://github.com/user-attachments/assets/ecab9dfb-f927-48a3-ac3d-af6f3d80d5b5" style=" width:300px ; height:600px " />
+<img src="https://github.com/user-attachments/assets/68f4cbe4-4f4d-44c4-a637-8b23851bc6b7" style=" width:300px ; height:600px " />
+<img src="https://github.com/user-attachments/assets/7738d84c-620b-4a05-9516-a647ec6e074b" style=" width:300px ; height:600px " />
 
 ## Детальное описание кода
 
